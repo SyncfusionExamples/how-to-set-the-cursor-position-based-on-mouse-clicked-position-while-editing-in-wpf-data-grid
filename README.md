@@ -32,5 +32,7 @@ public class GridCellTextBoxRendererExt : GridCellTextBoxRenderer
 
 Take a moment to peruse the [WPF DataGrid - Editing](https://help.syncfusion.com/wpf/datagrid/editing) documentation, where you can find about editing with code examples.
 
+KB article - [How to set the cursor position based on mouse clicked position while editing in WPF DataGrid (SfDataGid)?](https://www.syncfusion.com/kb/12622/how-to-set-the-cursor-position-based-on-mouse-clicked-position-while-editing-in-wpf)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
